@@ -16,4 +16,4 @@
 #### **Natural Language Processing (자연어 처리)**
 
 - Sequence to Sequence Learning with Neural Networks (2014)
-  - [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper PDF](#) / [Review Notes](https://github.com/yejinyeo/AI-Paper-Review/blob/main/review_note/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb) / [Code Implementation](#)
+  - [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper PDF](https://github.com/yejinyeo/AI-Paper-Review/blob/main/paper_analysis/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks_paper_analysis.pdf) / [Review Notes](https://github.com/yejinyeo/AI-Paper-Review/blob/main/review_note/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb) / [Code Implementation]
