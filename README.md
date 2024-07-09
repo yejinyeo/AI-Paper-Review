@@ -13,7 +13,7 @@
 
 ## Index
 
-### **Natural Language Processing (자연어 처리)**
+#### **Natural Language Processing (자연어 처리)**
 
 - Sequence to Sequence Learning with Neural Networks (2014)
   - [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper PDF](#) / [Review Notes](#) / [Code Implementation](#)
