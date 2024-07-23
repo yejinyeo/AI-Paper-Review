@@ -20,4 +20,4 @@
 - Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015)
   - [Original Paper Link](https://arxiv.org/abs/1409.0473) / [Paper PDF](https://github.com/yejinyeo/AI-Paper-Review/blob/main/paper_analysis/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate_analysis.pdf) / [Review Notes](https://github.com/yejinyeo/AI-Paper-Review/blob/main/review_note/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate.ipynb) / Code Implementation
 - Attention is All You Need (NIPS 2017)
-  - [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Paper PDF](https://github.com/yejinyeo/AI-Paper-Review/blob/main/paper_analysis/Attention%20Is%20All%20You%20Need_paper_analysis.pdf) / [Review Notes](#) / Code Implementation
+  - [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Paper PDF](https://github.com/yejinyeo/AI-Paper-Review/blob/main/paper_analysis/Attention%20Is%20All%20You%20Need_paper_analysis.pdf) / [Review Notes](https://github.com/yejinyeo/AI-Paper-Review/blob/main/review_note/Attention%20Is%20All%20You%20Need.ipynb) / Code Implementation
