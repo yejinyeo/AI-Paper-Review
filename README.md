@@ -25,4 +25,4 @@
 #### **Multi-modal (멀티모달)**
 
 - OCR-free Document Understanding Transformer (ECCV 2022)
-  - [Original Paper Link](https://arxiv.org/abs/2111.15664) / [Paper PDF](https://github.com/yejinyeo/AI-Paper-Review/blob/main/paper_analysis/Attention%20Is%20All%20You%20Need_paper_analysis.pdf) / [Review Notes](https://github.com/yejinyeo/AI-Paper-Review/blob/main/review_note/Attention%20Is%20All%20You%20Need.ipynb) / Code Implementation
+  - [Original Paper Link](https://arxiv.org/abs/2111.15664) / [Paper PDF](https://github.com/yejinyeo/AI-Paper-Review/blob/main/paper_analysis/Attention%20Is%20All%20You%20Need_paper_analysis.pdf) / [Review Notes](https://github.com/yejinyeo/AI-Paper-Review/blob/main/review_note/OCR-free%20Document%20Understanding%20Transformer.ipynb) / Code Implementation
